@@ -1,0 +1,733 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+@media only screen and (min-width: 975px) {
+  html {
+      font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 1025px)
+{
+  html {
+    font-size: 15px;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 974px) {
+  
+}
+
+@media only screen and (min-width: 1201px) {
+  html {
+      font-size: 16px;
+  }
+}
+
+main {
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.noscrollbar::-webkit-scrollbar,  .noscrollbar *::-webkit-scrollbar, main *::-webkit-scrollbar{
+  display: none;
+  width: 0;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.noscrollbar, .noscrollbar *, main * {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+#legalWrapper
+{
+  background-color: #4796d2;
+}
+
+#legalWrapper *
+{
+  color:#fff;
+}
+
+@layer components {
+  html {
+    @apply text-[16px] desktop:text-[12px] xl:text-[16px]
+  }
+
+  .test1 
+  {
+    @apply border-[2px] border-red-600;
+  }
+  .test2
+  {
+    @apply border-[2px] border-blue-600;
+  }
+  .test3
+  {
+    @apply border-[2px] border-yellow-500;
+  }
+  .test4
+  {
+    @apply border-[2px] border-black;
+  }
+  .test5
+  {
+    @apply border-[3px] border-green-500;
+  }
+  .test6
+  {
+    @apply border-[3px] border-purple-500;
+  }
+  .test7
+  {
+    @apply border-[3px] border-gray-500;
+  }
+
+  .bugBorder
+  {
+    @apply border-[1px] border-[beige];
+  }
+
+  .center
+  {
+    @apply items-center justify-center;
+  }
+  .firstSectionMt
+  {
+    @apply mt-[27px] desktop:mt-0
+  }
+
+  .h1
+  {
+    @apply text-[1.37rem] font-[400] leading-[1.88rem]
+  }
+
+  .goldH1
+  {
+    @apply text-gold4 text-[1.37rem] desktop:text-[1.75rem] font-[400] leading-[2.75rem] text-center
+  }
+
+  .goldH2
+  {
+    @apply text-gold3 text-[1.75rem] desktop:text-[2.25rem] font-[550] leading-[2.25rem] desktop:leading-[2.75rem] text-center
+  }
+
+  .pagePx
+  {
+    @apply px-mobilePageX desktop:px-desktopPageX
+  }
+  .pagePx2
+  {
+    @apply px-mobilePageX2 desktop:px-desktopPageX2
+  }
+
+
+  .eleMt
+  {
+    @apply mt-[2vh]
+  }
+  .eleMb-s
+  {
+    @apply mb-[1vh]
+  }
+  .eleMb
+  {
+    @apply mb-[2vh]
+  }
+  .eleMt2
+  {
+    @apply mt-[3vh]
+  }
+  .eleMt3
+  {
+    @apply mt-[4vh]
+  }
+  .eleMt4
+  {
+    @apply mt-[5vh]
+  }
+  .eleMt5
+  {
+    @apply mt-[6vh]
+  }
+  .eleMt_24
+  {
+    @apply mt-[24px]
+  }
+  .elePt-s
+  {
+    @apply pt-[1vh]
+  }
+  .elePt
+  {
+    @apply pt-[2vh]
+  }
+  .elePt2
+  {
+    @apply pt-[3vh]
+  }
+  .elePb-s
+  {
+    @apply pb-[1vh]
+  }
+  .elePb
+  {
+    @apply pb-[2vh]
+  }
+  .elePb2
+  {
+    @apply pb-[3vh]
+  }
+  .elePy-s
+  {
+    @apply py-[1vh]
+  }
+  .elePy
+  {
+    @apply py-[2vh]
+  }
+  .elePy2
+  {
+    @apply py-[3vh]
+  }
+  .elePy3
+  {
+    @apply py-[4vh]
+  }
+  .elePx
+  {
+    @apply px-[2vh]
+  }
+  .elePx2
+  {
+    @apply px-[3vh]
+  }
+  .elePx3
+  {
+    @apply px-[4vh]
+  }
+  .eleMx-s
+  {
+    @apply mx-[1vh]
+  }
+  .eleMx
+  {
+    @apply mx-[2vh]
+  }
+  .eleMx2
+  {
+    @apply mx-[3vh]
+  }
+  .eleMl2
+  {
+    @apply ml-[3vh]
+  }
+  .eleMy-s
+  {
+    @apply my-[1vh]
+  }
+  .eleMy
+  {
+    @apply my-[2vh]
+  }
+  .eleMyL
+  {
+    @apply my-[7vh]
+  }
+  .eleMt-s
+  {
+    @apply mt-[1vh]
+  }
+  .sectionMt
+  {
+    @apply mt-[4vh]
+  }
+  .article
+  {
+    @apply text-center text-black1 leading-[1.4rem] desktop:leading-[1.6rem] text-[1rem] font-[300] eleMt
+  }
+  
+  /* TAB */
+  .tabFirstSectionMt
+  {
+    @apply mt-[4vh] desktop:mt-[5vh]
+  }
+  .tabFirstSectionMt-2
+  {
+    @apply mt-[3vh] desktop:mt-[5vh]
+  }
+  .tabPx
+  {
+    @apply px-[6vw] desktop:px-desktopPageX2
+  }
+  .tabSectionMt
+  {
+    @apply mt-[2vh] desktop:mt-[32px]
+  }
+
+  /* NAV */
+  .nav-arrow
+  {
+    background-image: url('../public/images/nav/mobile-sub-arrow.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .nav-arrow-hover
+  {
+    background-image: url('../public/images/nav/mobile-sub-arrow-selected.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  /* UNSUPPORTED CSS FIX aspect */
+
+  @supports not (aspect-ratio: 1/1) {
+    .aspect-square::before
+    {
+      content: "";
+      float: left;
+      padding-top: 100%;
+    }
+
+    .aspect-square::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 2/1) {
+    .aspect-2_1::before
+    {
+      content: "";
+      float: left;
+      padding-top: 50%;
+    }
+
+    .aspect-2_1::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 4/3) {
+    .aspect-4_3::before
+    {
+      content: "";
+      float: left;
+      padding-top: 75%;
+    }
+
+    .aspect-4_3::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 5/3) {
+    .aspect-5_3::before
+    {
+      content: "";
+      float: left;
+      padding-top: 60%;
+    }
+
+    .aspect-5_3::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 16/9) {
+    .aspect-video::before
+    {
+      content: "";
+      float: left;
+      padding-top: 56.2%;
+    }
+
+    .aspect-video::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 1/2) {
+    .aspect-1_2::before
+    {
+      content: "";
+      float: left;
+      padding-top: 200%;
+    }
+
+    .aspect-1_2::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 21/9) {
+    .aspect-21_9::before
+    {
+      content: "";
+      float: left;
+      padding-top: 42%;
+    }
+
+    .aspect-21_9::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 3/1) {
+    .aspect-3_1::before
+    {
+      content: "";
+      float: left;
+      padding-top: 33.3%;
+    }
+
+    .aspect-3_1::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 3/2) {
+    .aspect-3_2::before
+    {
+      content: "";
+      float: left;
+      padding-top: 66.6%;
+    }
+
+    .aspect-3_2::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 15/2) {
+    .aspect-15_2::before
+    {
+      content: "";
+      float: left;
+      padding-top: 13.3%;
+    }
+
+    .aspect-15_2::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 11/5) {
+    .aspect-11_5::before
+    {
+      content: "";
+      float: left;
+      padding-top: 45.4%;
+    }
+
+    .aspect-11_5::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 8/5) {
+    .aspect-8_5::before
+    {
+      content: "";
+      float: left;
+      padding-top: 62.5%;
+    }
+
+    .aspect-8_5::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 5/4) {
+    .aspect-map::before, .aspect-5_4::before
+    {
+      content: "";
+      float: left;
+      padding-top: 80%;
+    }
+
+    .aspect-map::after .aspect-5_4::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  @supports not (aspect-ratio: 10/9) {
+    .aspect-mobileMap::before
+    {
+      content: "";
+      float: left;
+      padding-top: 90%;
+    }
+
+    .aspect-mobileMap::after
+    {
+      display: block;
+      content: "";
+      clear: both;
+    }
+  }
+
+  
+
+  /* UNSUPPORTED CSS FIX gap */
+  @supports not (aspect-ratio: 2/1) {
+    .gap-vw
+    {
+      @apply mx-[0.5vw]
+    }
+
+    .gap-vw2
+    {
+      @apply mx-[1vw]
+    }
+
+    .gap-px16 .gapItem
+    {
+      @apply mx-[8px]
+    }
+
+    .gap-vw3 .gapItem3
+    {
+      @apply mx-[1.5vw]
+    }
+
+    .gap-vw12 .gapItem12
+    {
+      @apply mx-[6vw]
+    }
+
+    .gap-vw10 .gapItem10
+    {
+      @apply mx-[5vw]
+    }
+
+    .gap-rem-075 .gapItemRem075
+    {
+      @apply mx-[0.35rem]
+    }
+
+    .gap-px36 .gapItemPx36
+    {
+      @apply my-[18px]
+    }
+
+    .gap-vh2 .gap-vh2_item-y-only-t
+    {
+      @apply mt-[2vh]
+    }
+
+    .gap-vh2 .gap-vh2_item-y-only-b
+    {
+      @apply mb-[2vh]
+    }
+
+
+
+
+
+    .nav-submenu
+    {
+      margin-top: 0 !important;
+    }
+
+    .pin0
+    {
+      margin-left:-16% !important;
+      margin-top:-33% !important;
+    }
+
+    .pin1
+    {
+      margin-left:-39% !important;
+      margin-top:-11% !important;
+    }
+
+    .pin2
+    {
+      margin-left:-15% !important;
+      margin-top:-7% !important;
+    }
+
+    .pin3
+    {
+      margin-left: 8% !important;
+      margin-top:3% !important;
+    }
+
+    .pin4
+    {
+      margin-left: 8% !important;
+      margin-top:-28% !important;
+    }
+
+    .pin5
+    {
+      margin-left: 25% !important;
+      margin-top:-11% !important;
+    }
+    .pin6
+    {
+      margin-left: -28% !important;
+      margin-top:-27% !important;
+    }
+
+    @media only screen and (min-width: 975px) {
+      .pin0
+      {
+        margin-left:-16% !important;
+        margin-top:-30% !important;
+      }
+      .pin1
+      {
+        margin-left:-33% !important;
+        margin-top:-11% !important;
+      }
+      .pin2
+      {
+        margin-left:-12% !important;
+        margin-top:-7% !important;
+      }
+      .pin3
+      {
+        margin-left: 5.6% !important;
+        margin-top:5% !important;
+      }
+      .pin4
+      {
+        margin-left: 12% !important;
+        margin-top:-23% !important;
+      }
+      .pin5
+      {
+        margin-left: 23.5% !important;
+        margin-top:-10.5% !important;
+      }
+      .pin6
+      {
+        margin-left: -28% !important;
+        margin-top:-25% !important;
+      }
+      /* END DESKTOP OLD IOS PINS */
+    }
+
+    .goldstart-bottomstar
+    {
+      max-width: 100px !important;
+
+    }
+
+
+    .map-swiper-outter
+    {
+      aspect-ratio: 16 / 9 !important;
+      height: unset !important;
+      @apply w-full
+    }
+    .map-swiper
+    {
+      height: 100% !important;
+      /* @apply test1  */
+    }
+
+    .map-swiper-outter.ready
+    {
+      /* border:green 3px solid; */
+    }
+
+    .map-swiper-outter:not(.ready) .map-swiper-slide, .map-swiper-outter:not(.ready) .map-swiper-slide *
+    {
+      position: absolute !important;
+      height: 0 !important;
+      /* @apply bg-red-500 */
+    }
+
+    .map-inner-inner
+    {
+      @apply w-full
+    }
+
+
+
+
+
+    .landing-modal-outter:not(.ready) .landing-modal-slide, .landing-modal-outter:not(.ready) .landing-modal-slide *
+    {
+      /* position: absolute !important; */
+      width: 0 !important;
+      border:red 2px solid;
+      /* @apply bg-red-500 */
+    }
+
+    .landing-modal-outter.ready .landing-modal-slide
+    {
+      width: 100% !important;
+      /* border:red 2px solid; */
+      /* @apply bg-red-500 */
+    }
+
+
+  }
+
+
+  
+
+}

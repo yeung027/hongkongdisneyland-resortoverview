@@ -1,0 +1,148 @@
+{
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "THEMED HOTELS IN THE RESORT"
+            },
+            "zh-hk": {
+                "title": "度假區主題酒店"
+            }
+        },
+        "interval":7000,
+        "medias":[
+            {
+                "src":"images/resort-hotels/kv/1.png",
+                "mobileSrc":"images/resort-hotels/kv/1-mobile.png",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/kv/2.png",
+                "mobileSrc":"images/resort-hotels/kv/2-mobile.png",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/kv/3.png",
+                "mobileSrc":"images/resort-hotels/kv/3-mobile.png",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/kv/4.png",
+                "mobileSrc":"images/resort-hotels/kv/4-mobile.png",
+                "type": "image"
+            }
+        ]
+    },
+    "sections":[
+        {
+            "translations": {
+                "en_US": {
+                    "title": "Resort Hotels’",
+                    "second_title": "HIGHLIGHTS AND FACILITIES AT A GLANCE",
+                    "article": "Hong Kong Disneyland Resort offers amazing accommodation options for Guests from all over the world. Each hotel has a distinctive theme, and all rooms can comfortably accommodate up to four people. Guests can enjoy recreational facilities and activities across the three hotels and an array of exclusive privileges."
+                },
+                "zh-hk": {
+                    "title": "度假區酒店特色和概覽",
+                    "article": "香港迪士尼樂園度假區設有不同的主題酒店，供不同國籍及需要的賓客選擇。每間客房均可舒適地容納四位賓客，賓客入住期間，更可暢玩三家酒店的康樂活動及設施，和一系列酒店賓客專享禮遇！"
+                }
+            },
+            "items":[
+                {
+                    "image":"images/resort-hotels/1.jpg",
+                    "hotel":"dlh",
+                    "translations": {
+                        "en_US": {
+                            "title": "Hong Kong Disneyland Hotel",
+                            "points":[
+                                {"content": "Grand Victorian Elegance"},
+                                {"content": "Mickey Maze"},
+                                {"content": "400 Guest Rooms"}
+                            ]
+                        },
+                        "zh-hk": {
+                            "title": "香港迪士尼樂園酒店",
+                            "points":[
+                                {"content": "維多利亞風格"},
+                                {"content": "米奇迷宮花園"},
+                                {"content": "400間客房"}
+                            ]
+                        }
+                    }
+                },
+                {
+                    "image":"images/resort-hotels/2.jpg",
+                    "hotel":"del",
+                    "translations": {
+                        "en_US": {
+                            "title": "Disney Explorers Lodge",
+                            "points":[
+                                {"content": "Spirit of Exploration"},
+                                {"content": "Four Themed Gardens"},
+                                {"content": "750 Guest Rooms"}
+                            ]
+                        },
+                        "zh-hk": {
+                            "title": "迪士尼探索家度假酒店",
+                            "points":[
+                                {"content": "以探索精神為設計主題"},
+                                {"content": "四個不同主題的庭園"},
+                                {"content": "750間客房"}
+                            ]
+                        }
+                    }
+                },
+                {
+                    "image":"images/resort-hotels/3.jpg",
+                    "hotel":"dhh",
+                    "showDots":false,
+                    "translations": {
+                        "en_US": {
+                            "title": "Disney's Hollywood Hotel",
+                            "points":[
+                                {"content": "*Temporarily closed"}
+                            ]
+                        },
+                        "zh-hk": {
+                            "title": "迪士尼好萊塢酒店",
+                            "points":[
+                                {"content": "*暫停開放"}
+                            ]
+                        }
+                    }
+                }
+            ]
+        }, 
+        {
+            "replace":"images/resort-hotels/section2/_1.jpg"
+        },
+        {
+            
+            "interval":7000,
+            "showArrow":true,
+            "medias":[
+                {
+                    "src":"images/resort-hotels/section3/2.jpg",
+                    "type": "image"
+                },
+                {
+                    "src":"images/resort-hotels/section3/3.jpg",
+                    "type": "image"
+                },
+                {
+                    "src":"images/resort-hotels/section3/4.jpg",
+                    "type": "image"
+                }
+            ],
+            "translations": {
+                "en_US": {
+                    "title": "DISNEY THEMED",
+                    "second_title": "ROOM DECORATIONS",
+                    "article": "Surprise your family or friends and make your stay at Hong Kong Disneyland Hotel even more memorable with our decoration room overlays."
+                },
+                "zh-hk": {
+                    "title": "迪士尼主題房間佈置",
+                    "article": "於房間配上最愛的迪士尼好友主題佈置，為迪士尼假期增添個人色彩，更為家人朋友帶來驚喜！"
+                }
+            }
+        }
+    ]
+}

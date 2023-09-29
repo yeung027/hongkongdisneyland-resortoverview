@@ -1,0 +1,8 @@
+{
+    "baseurl":"/campaigns/resortoverview/",
+    "baseurlPrefix":"/",
+    "baseurlSuffix":"campaigns/resortoverview/",
+    "syndicated":"https://www.hongkongdisneyland.com/",
+    "urlSuffix":".html",
+    "urlIndex":"index"
+}

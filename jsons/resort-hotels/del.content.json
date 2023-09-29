@@ -1,0 +1,240 @@
+{
+    "hotel":"del",
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "Disney Explorers Lodge"
+            },
+            "zh-hk": {
+                "title": "迪士尼探索家度假酒店"
+            }
+        },
+        "interval":7000,
+        "uppercase":true,
+        "medias":[
+            {
+                "src":"images/resort-hotels/del/kv/1.jpg",
+                "mobileSrc":"images/resort-hotels/del/kv/1-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/del/kv/2.jpg",
+                "mobileSrc":"images/resort-hotels/del/kv/2-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/del/kv/3.jpg",
+                "mobileSrc":"images/resort-hotels/del/kv/3-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/del/kv/4.jpg",
+                "mobileSrc":"images/resort-hotels/del/kv/4-mobile.jpg",
+                "type": "image"
+            }
+            
+        ]
+    },
+    "tabs":[
+        {
+            "translations": {
+                "en_US": {
+                    "name": "Overview"
+                },
+                "zh-hk": {
+                    "name": "概述"
+                },
+                "zh-cn": {
+                    "name": "概述"
+                }
+            },
+            "sections":[
+                {
+                    "image": "images/resort-hotels/del/overview/1.jpg",
+                    "testImage": "images/resort-hotels/del/overview/del_1.jpg",
+                    "testAspect": "10 / 9",
+                    "translations": {
+                        "en_US": {
+                            "title": "“TO EXPLORE AND DREAM”",
+                            "article": [
+                                "Dedicated to the spirit of exploration, Disney Explorers Lodge Invites Guests to enter into a new world full of discovery, nature and exotic cultures. The hotel features four distinctly themed gardens that appeals to everyone’s spirit of adventure. Guests around the world can become explorers themselves, embracing the lodge motto of “ad explorare et somniare” (\"to explore and dream\")."
+                            ]
+                        },
+                        "zh-hk": {
+                            "title": "「勇於探索．開創夢想」",
+                            "article": [
+                                "迪士尼探索家度假酒店以探險精神為設計主題，將帶領來自各地的賓客進入一個充滿新奇發現、自然色彩和異國文化的領域。酒店設有四個各具獨特異國色彩的主題庭園，歡迎世界各地的賓客前來加入探索者的行列，一同體驗酒店的座右銘：「ad explorare et somniare」（即「勇於探索．開創夢想」）。"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "images": [
+                        {"src": "images/resort-hotels/del/overview/2.jpg"},
+                        {"src": "images/resort-hotels/del/overview/3.jpg"}
+                    ],
+                    "interval":4000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src":"images/resort-hotels/del/overview/4.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/overview/5.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/overview/6.jpg",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "translations": {
+                "en_US": {
+                    "name": [
+                        "Guest Rooms",
+                        " and Suites "
+                    ]
+                },
+                "zh-hk": {
+                    "name": "客房和套房"
+                },
+                "zh-cn": {
+                    "name": "客房和套房"
+                }
+            },
+            "sections":[
+                {
+                    "mobilePx": true,
+                    "translations": {
+                        "en_US": {
+                            "title": "Accommodation with an Exotic Theme",
+                            "article": "Disney Explorers Lodge has five exotic room types: Standard, Deluxe, Premium, Sea View and Sea View with Balcony, offering different views of the sea or gardens."
+                        },
+                        "zh-hk": {
+                            "title": [
+                                {"text" : "充滿異國風情的"},
+                                {"text" : "住宿體驗", "nowrap":true}
+                            ],
+                            "article": "迪士尼探索家度假酒店的客房採用四種不同主題，窗外是一望無際的海景或園景。客房分為標準客房、豪華客房、高層豪華客房、海景客房和海景陽台客房五種房型。"
+                        }
+                    },
+                    "images": [
+                        {"src": "images/resort-hotels/del/guest-room-suite/1.jpg"},
+                        {"src": "images/resort-hotels/del/guest-room-suite/2.jpg"}
+                    ]
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "ADVENTURERS SUITE",
+                            "article": "Mickey Mouse and Minnie Mouse, Disney’s two most famous explorers, love going on expeditions around the Lodge. They have set up a residence there as a base for their own adventure, and when they are out and about on their field trip, they generously allow Guests to stay there!"
+                        },
+                        "zh-hk": {
+                            "title": "大冒險家套房",
+                            "article": "作為迪士尼最具名氣的冒險家，米奇與米妮最愛在這裡考察一番。他們更設立了一個歇息之所作為探索基地，每當他們結伴外遊時，更慷慨地開放出來供賓客入住！"
+                        }
+                    },
+                    "titleColor":"#E6FBD9",
+                    "bgColor":"#7B977E",
+                    "textColor":"#ffffff",
+                    "interval":7000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src":"images/resort-hotels/del/guest-room-suite/slideshow/1.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/guest-room-suite/slideshow/2.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/guest-room-suite/slideshow/3.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/guest-room-suite/slideshow/4.jpg",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "translations": {
+                "en_US": {
+                    "name": "Leisure & Recreation"
+                },
+                "zh-hk": {
+                    "name": "休閒娛樂"
+                }
+            },
+            "sections": [
+                {
+                    "image": "images/resort-hotels/del/leisure-recreation/1.jpg",
+                    "testImage": "images/resort-hotels/del/leisure-recreation/del_1.jpg",
+                    "testAspect": "4 / 3",
+                    "translations": {
+                        "en_US": {
+                            "title": "Fun-Filled",
+                            "second_title": "ACTIVITIES AND FACILITIES",
+                            "article": [
+                                "Guests staying at any Hong Kong Disneyland Resort hotels can participate in fun activities throughout the day and enjoy the facilities of our three hotels.",
+                                "There are a variety of facilities, including four distinctly themed gardens and Rain Drop Pool, that surround and enfold Disney Explorers Lodge, providing recreation to all explorers at the lodge."
+                            ],
+                            "link": {
+                                "text": [
+                                    "Learn more about",
+                                    "Hotel Recreational Activities"
+                                ],
+                                "url": "https://www.hongkongdisneyland.com/hotel-recreational-activities/"
+                            }
+                        },
+                        "zh-hk": {
+                            "title": "酒店康樂活動及設施",
+                            "article": [
+                                "賓客不管入住哪一家度假區酒店，都可暢玩三家酒店的設施及特色康樂活動。",
+                                "入住賓客可盡情探索位於迪士尼探索家度假酒店的不同設施，包括到四個以不同地區為主題的庭園散步，或享用雨澄泳池等，放鬆身心，感受自然氣息。"
+                            ],
+                            "link": {
+                                "text": [
+                                    "了解更多",
+                                    "酒店康樂活動及設施"
+                                ],
+                                "url": "https://www.hongkongdisneyland.com/zh-hk/hotel-recreational-activities/"
+                            }
+                        }
+                    },
+                    "linkUrl": "#"
+                },
+                {
+                    "images": [
+                        {"src": "images/resort-hotels/del/leisure-recreation/2.jpg"},
+                        {"src": "images/resort-hotels/del/leisure-recreation/3.jpg"}
+                    ],
+                    "interval":4000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src":"images/resort-hotels/del/leisure-recreation/slideshow/1.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/leisure-recreation/slideshow/2.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/del/leisure-recreation/slideshow/3.jpg",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

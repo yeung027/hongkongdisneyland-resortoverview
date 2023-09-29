@@ -1,0 +1,398 @@
+{
+    "hotel":"dlh",
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "Hong Kong Disneyland Hotel"
+            },
+            "zh-hk": {
+                "title": "香港迪士尼樂園酒店"
+            }
+        },
+        "interval":7000,
+        "uppercase":true,
+        "medias":[
+            {
+                "src":"images/resort-hotels/dlh/kv/1.jpg",
+                "mobileSrc":"images/resort-hotels/dlh/kv/1-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/dlh/kv/2.jpg",
+                "mobileSrc":"images/resort-hotels/dlh/kv/2-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/dlh/kv/3.jpg",
+                "mobileSrc":"images/resort-hotels/dlh/kv/3-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/dlh/kv/4.jpg",
+                "mobileSrc":"images/resort-hotels/dlh/kv/4-mobile.jpg",
+                "type": "image"
+            }
+            
+        ]
+    },
+    "tabs":[
+        {
+            "translations": {
+                "en_US": {
+                    "name": "Overview"
+                },
+                "zh-hk": {
+                    "name": "概述"
+                },
+                "zh-cn": {
+                    "name": "概述"
+                }
+            },
+            "sections":[
+                {
+                    "image": "images/resort-hotels/dlh/1.jpg",
+                    "testImage": "images/resort-hotels/dlh/dlh_1.jpg",
+                    "testAspect": "1 / 1",
+                    "translations": {
+                        "en_US": {
+                            "title": "GRAND VICTORIAN ELEGANCE",
+                            "article": [
+                                {
+                                    "text": "Nestled along the shores of the South China Sea, "
+                                },
+                                {
+                                    "text": "Hong Kong Disneyland Hotel",
+                                    "nowrap": true
+                                },
+                                {
+                                    "text": " boasts stately accommodations with modern amenities. This architectural marvel combines the splendor of a vintage seaside resort with the magic of Disney."
+                                }
+                            ]
+                        },
+                        "zh-hk": {
+                            "title": "維多利亞風格",
+                            "article": [
+                                {
+                                    "text": "香港迪士尼樂園酒店",
+                                    "nowrap": true
+                                },
+                                {
+                                    "text": "猶如坐落於南中國海岸上的維多利亞式華麗宮殿，讓所有賓客都可以暫時遠離繁囂的生活，放鬆身心。酒店建築完美融合海濱度假區的懷舊風味和迪士尼的夢幻氣氛，而且配有先進的設備，華麗的大堂常設現場音樂表演，讓賓客尊享華貴高雅的住宿體驗。"
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "images": [
+                        {"src": "images/resort-hotels/dlh/2.jpg"},
+                        {"src": "images/resort-hotels/dlh/3.jpg"}
+                    ],
+                    "interval":7000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src":"images/resort-hotels/dlh/4.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/dlh/5.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/dlh/6.jpg",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "translations": {
+                "en_US": {
+                    "name": [
+                        "Guest Rooms",
+                        " and Suites"
+                    ]
+                },
+                "zh-hk": {
+                    "name": "客房和套房"
+                },
+                "zh-cn": {
+                    "name": "客房和套房"
+                }
+            },
+            "sections":[
+                {
+                    "mobilePx": true,
+                    "translations": {
+                        "en_US": {
+                            "title": "Escape to a lavish Victorian palace",
+                            "article": "The hotel offers a variety of room types: Standard, Deluxe, Sea View, Sea View with Balcony, Kingdom Club Rooms, Kingdom Club Themed Suites, as well as Roy O. Disney Suite and Walt Disney Suite. All rooms are furnished in a style that combines traditional Victorian patterns and colors with the latest in modern conveniences."
+                        },
+                        "zh-hk": {
+                            "title": [
+                                {"text" : "探索"},
+                                {"text" : "維多利亞式", "nowrap":true},
+                                {"text" : "華麗宮殿", "nowrap":true}
+                            ],
+                            "article": "酒店包括標準客房、豪華客房、海景客房、海景陽台客房、國賓廳客房、迪士尼主題國賓廳套房、華特迪士尼套房和羅伊迪士尼套房。每間客房均參照傳統的維多利亞時代風格和顏色而設計，且具備現代化的設備。"
+                        }
+                    },
+                    "images": [
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/1.jpg",
+                            "mobileSrc": "images/resort-hotels/dlh/guest-room-suite/1-mobile.jpg"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/2.jpg",
+                            "mobileSrc": "images/resort-hotels/dlh/guest-room-suite/2-mobile.jpg"
+                        }
+                    ]
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": [
+                                "Kingdom Club",
+                                "FROZEN SUITE"
+                            ],
+                            "article": "Immerse yourself in the world of Anna and Elsa. Hop aboard Kristoffs’ sleigh and play with a large Olaf plush toy, amid the picturesque winter landscape."
+                        },
+                        "zh-hk": {
+                            "title": [
+                                {"text":"國賓廳《魔雪奇緣"},
+                                {"text":"1", "super":true},
+                                {"text":"》主題套房"}
+                            ],
+                            "article": [
+                                {"text":"投入安娜和愛莎"},
+                                {"text":"2", "super":true},
+                                {"text":"的冰雪國度，跳上基斯托夫"},
+                                {"text":"3", "super":true},
+                                {"text":"的雪撬坐椅，抱著大型小白"},
+                                {"text":"4", "super":true},
+                                {"text":"毛公仔一同感受夢幻。"}
+                            ],
+                            "remark": [
+                                {"text":"台灣譯名為: "},
+                                {"text":"1", "super":true},
+                                {"text":"冰雪奇緣; "},
+                                {"text":"2", "super":true},
+                                {"text":"艾莎; "},
+                                {"text":"3", "super":true},
+                                {"text":"克斯托夫; "},
+                                {"text":"4", "super":true},
+                                {"text":"雪寶"}
+                            ]
+                        }
+                    },
+                    "titleColor":"#6C91A6",
+                    "bgColor":"#C8EAEF",
+                    "textColor":"#1F1F1F",
+                    "interval":7000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section2/1.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section2/2.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section2/3.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section2/4.jpg",
+                            "type": "image"
+                        }
+                    ]
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": [
+                                "Kingdom Club",
+                                "CINDERELLA SUITE"
+                            ],
+                            "article": "Step into the royal realms of Cinderella and Prince Charming and imagine embarking on a grand tour of the kingdom in a pumpkin carriage."
+                        },
+                        "zh-hk": {
+                            "title": "國賓廳仙杜瑞拉主題套房",
+                            "article": "踏進灰姑娘與王子的夢幻國度，登上南瓜車，恍如遊歷童話王國。"
+                        }
+                    },
+                    "titleColor":"#785586",
+                    "bgColor":"#E5CDE0",
+                    "textColor":"#1F1F1F",
+                    "direction":"right",
+                    "interval":7000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section3/1.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section3/2.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section3/3.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section3/4.jpg",
+                            "type": "image"
+                        }
+                    ]
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "KINGDOM CLUB SUITES",
+                            "article": "The Kingdom Club Suites feature artwork of the Park’s transformed castle, showcasing its uplifting design that reaches ever skyward as a shining symbol of dreams, hopes and aspirations."
+                        },
+                        "zh-hk": {
+                            "title": "國賓廳套房",
+                            "article": "國賓廳套房陳列出樂園新城堡版圖，震撼人心的設計高聳入雲，象徵無比耀眼的夢想、希望與抱負。"
+                        }
+                    },
+                    "titleColor":"#AF8D6E",
+                    "bgColor":"#F3EADD",
+                    "textColor":"#1F1F1F",
+                    "interval":7000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section4/1.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section4/2.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section4/3.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section4/4.jpg",
+                            "type": "image"
+                        }
+                    ]
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "ONLY AT KINGDOM CLUB",
+                            "article": "Famed for its hospitality and unparalleled services, the Kingdom Club provides the highest level of personal attention during your stay on the executive floor. With a complimentary deli to enjoy all day and a wide range of activities to partake in, staying here is a perfect complement to a magical vacation at the Resort."
+                        },
+                        "zh-hk": {
+                            "title": "尊享禮遇 ─ 只在國賓廳",
+                            "article": "國賓廳以尊貴服務著稱，為你帶來更優質的體驗。設有免費餐飲、個人化服務及多元化活動，國賓廳將讓你的香港迪士尼樂園度假區奇妙假期更加完美。"
+                        }
+                    },
+                    "titleColor":"#E6FBD9",
+                    "bgColor":"#7B977E",
+                    "textColor":"#FFFFFF",
+                    "direction":"right",
+                    "interval":7000,
+                    "showArrow":true,
+                    "style": "gold",
+                    "medias":[
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section5/1.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section5/2.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section5/3.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src": "images/resort-hotels/dlh/guest-room-suite/section5/4.jpg",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "translations": {
+                "en_US": {
+                    "name": "Leisure & Recreation"
+                },
+                "zh-hk": {
+                    "name": "休閒娛樂"
+                }
+            },
+            "sections": [
+                {
+                    "image": "images/resort-hotels/dlh/leisure-recreation/1.jpg",
+                    "testImage": "images/resort-hotels/dlh/leisure-recreation/test_img.jpg",
+                    "testAspect": "4 / 5",
+                    "translations": {
+                        "en_US": {
+                            "title": "Fun-Filled",
+                            "second_title": "ACTIVITIES AND FACILITIES",
+                            "article": [
+                                "Guests staying at any Hong Kong Disneyland Resort hotels can participate in fun activities throughout the day and enjoy the facilities of our three hotels.",
+                                "Discover the Mickey-inspired botanical maze, swimming pool, fitness center, tennis court, and more at Hong Kong Disneyland Hotel."
+                            ],
+                            "link": {
+                                "text": [
+                                    "Learn more about",
+                                    "Hotel Recreational Activities"
+                                ],
+                                "url": "https://www.hongkongdisneyland.com/hotel-recreational-activities/"
+                            }
+                        },
+                        "zh-hk": {
+                            "title": "酒店康樂活動及設施",
+                            "article": [
+                                "賓客不管入住哪一家度假區酒店，都可暢玩三家酒店的設施及特色康樂活動。",
+                                "探索位於香港迪士尼樂園酒店以米奇為設計主題的迷宮花園、健身中心、網球場等不同設施。"
+                            ],
+                            "link": {
+                                "text": [
+                                    "了解更多",
+                                    "酒店康樂活動及設施"
+                                ],
+                                "url": "https://www.hongkongdisneyland.com/zh-hk/hotel-recreational-activities/"
+                            }
+                        }
+                    }
+                },
+                {
+                    "images": [
+                        {"src": "images/resort-hotels/dlh/leisure-recreation/2.jpg"},
+                        {"src": "images/resort-hotels/dlh/leisure-recreation/3.jpg"}
+                    ],
+                    "interval":7000,
+                    "showArrow":true,
+                    "medias":[
+                        {
+                            "src":"images/resort-hotels/dlh/leisure-recreation/4.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/dlh/leisure-recreation/5.jpg",
+                            "type": "image"
+                        },
+                        {
+                            "src":"images/resort-hotels/dlh/leisure-recreation/6.jpg",
+                            "type": "image"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

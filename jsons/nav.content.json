@@ -1,0 +1,24 @@
+{
+    "translations": {
+        "en_US": {
+            "menu": "Menu",
+            "lastestHappening": "Latest Happenings",
+            "thePark": "The Park",
+            "resortHotels": "Resort Hotels",
+            "DLH": "Hong Kong Disneyland Hotel",
+            "DHH": "Disney's Hollywood Hotel",
+            "DEL": "Disney Explorers Lodge",
+            "diningAndShopping": "Dining and Shopping"
+        },
+        "zh-hk": {
+            "menu": "目錄",
+            "lastestHappening": "最新動態",
+            "thePark": "樂園資訊",
+            "resortHotels": "度假區酒店",
+            "DLH": "香港迪士尼樂園酒店",
+            "DHH": "迪士尼好萊塢酒店",
+            "DEL": "迪士尼探索家度假酒店",
+            "diningAndShopping": "購物及美食"
+        }
+    }
+}

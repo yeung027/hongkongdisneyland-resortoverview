@@ -1,0 +1,14 @@
+{
+    "translations": {
+        "en_US": {
+            "stayConnected": "Stay Connected",
+            "disneyParksBlog": "Disney Parks Blog",
+            "mobileApp": "Mobile App"
+        },
+        "zh-hk": {
+            "stayConnected": "保持聯繫",
+            "disneyParksBlog": "迪士尼樂園網誌",
+            "mobileApp": "手機應用程式"
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "Fantastic",
+                "second_title": "DINING AND SHOPPING EXPERIENCES"
+            },
+            "zh-hk": {
+                "title": "盡享",
+                "second_title": "購物美食的奇妙樂趣"
+            }
+        },
+        "interval":7000,
+        "medias":[
+            {
+                "src":"images/dining-and-shopping/kv/1.jpg",
+                "mobileSrc":"images/dining-and-shopping/kv/1-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/dining-and-shopping/kv/2.jpg",
+                "mobileSrc":"images/dining-and-shopping/kv/2-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/dining-and-shopping/kv/3.jpg",
+                "mobileSrc":"images/dining-and-shopping/kv/3-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/dining-and-shopping/kv/4.jpg",
+                "mobileSrc":"images/dining-and-shopping/kv/4-mobile.jpg",
+                "type": "image"
+            }
+            
+        ]
+    },
+    "sections":[
+        {
+            "translations": {
+                "en_US": {
+                    "title": "Delight in a ",
+                    "second_title": "Wide Variety of DELECTABLE CUISINES",
+                    "article": [
+                        "The Resort offers a wide variety of cuisine options at every turn, including cosmopolitan selection of Chinese, Western, Southeast Asian and Japanese delicacies. Our imaginative chefs create mouth-watering food items inspired by classic Disney Characters, such as the Mickey Waffles, Stitch and Lotso Sherbet Bars and more.",
+                        "Meat items served at selected restaurants at the park and hotels are certified by The Incorporated Trustees of The Islamic Community Fund of Hong Kong."
+                    ],
+                    "link": {
+                        "text": "Discover exquisite flavors from around the world at the Resort",
+                        "url": "https://www.hongkongdisneyland.com/dining/"
+                    }
+                },
+                "zh-hk": {
+                    "title": "品嘗",
+                    "second_title": "一試難忘的幸福滋味",
+                    "article": [
+                                {
+                                    "spans":[
+                                            {"text":"度假區提供各國特色精彩美食，由中餐佳餚到西式美食，應有盡有，滿足不同賓客的需要。迪士尼大廚更費盡心思，創造多款可愛且令人垂涎的迪士尼朋友造型美食，如米奇窩夫、米奇芒果布丁、史迪仔"},
+                                            {"text":"1", "super":true},
+                                            {"text":"及勞蘇"},
+                                            {"text":"2", "super":true},
+                                            {"text":"雪葩等。"}
+                                        ]
+                                },
+                                {
+                                    "spans":[
+                                            {"text":"在樂園和酒店的指定餐廳內供應的肉類食品已獲得香港回教信託基金認證。"}
+                                        ]
+                                }     
+                    ],
+                    "remark": [
+                        {"text":"台灣譯名為: "},
+                        {"text":"1", "super":true},
+                        {"text":"史迪奇；"},
+                        {"text":" 2", "super":true},
+                        {"text":"熊抱哥"}
+                    ],
+                    "link": {
+                        "text": "了解更多度假區提供的各國特色美食",
+                        "url": "https://www.hongkongdisneyland.com/zh-hk/dining/"
+                    }
+                }
+            },
+            "linkUrl": "#",
+            "slideshow":{
+                "interval":7000,
+                "showArrow": true,
+                "showDots":false,
+                "medias":[
+                    {
+                        "src":"images/dining-and-shopping/section1/1.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section1/2.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section1/3.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section1/4.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section1/5.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section1/6.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section1/7.jpg",
+                        "type": "image"
+                    }
+                ]
+            }
+        },
+        {
+            "translations": {
+                "en_US": {
+                    "title": "BRING HOME THE MAGIC",
+                    "article": [
+                        "Shopping in the Resort is not to be missed during your visit. There is a wide range of shops throughout the Resort, with an ever-growing selection of premium merchandise.",
+                        "The main cluster of shops lines both sides of Main Street, U.S.A., and exclusive stores are in all of the themed lands and hotels. You are sure to find the perfect souvenir from our extensive selection!"
+                    ]
+                },
+                "zh-hk": {
+                    "title": "帶走精美商品 延續奇妙",
+                    "article": "度假區內到處都有商店提供不同具有特色和獨家發售的商品；除了美國小鎮大街兩旁的商店外，各園區及度假區酒店亦設有獨特主題商店，讓你盡享購物樂趣！"
+                }
+            },
+            "slideshow":{
+                "interval":7000,
+                "showArrow": true,
+                "showDots":false,
+                "medias":[
+                    {
+                        "src":"images/dining-and-shopping/section2/1.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section2/2.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section2/3.jpg",
+                        "type": "image"
+                    },
+                    {
+                        "src":"images/dining-and-shopping/section2/4.jpg",
+                        "type": "image"
+                    }
+                ]
+            }
+        }
+    ]
+}

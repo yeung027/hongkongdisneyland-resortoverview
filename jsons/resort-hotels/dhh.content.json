@@ -1,0 +1,69 @@
+{
+    "hotel":"dhh",
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "Disney’s Hollywood Hotel"
+            },
+            "zh-hk": {
+                "title": "迪士尼好萊塢酒店"
+            }
+        },
+        "interval":7000,
+        "uppercase":true,
+        "medias":[
+            {
+                "src":"images/resort-hotels/dhh/kv/1.jpg",
+                "mobileSrc":"images/resort-hotels/dhh/kv/1-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/dhh/kv/2.jpg",
+                "mobileSrc":"images/resort-hotels/dhh/kv/2-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/dhh/kv/3.jpg",
+                "mobileSrc":"images/resort-hotels/dhh/kv/3-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/resort-hotels/dhh/kv/4.jpg",
+                "mobileSrc":"images/resort-hotels/dhh/kv/4-mobile.jpg",
+                "type": "image"
+            }
+            
+        ]
+    },
+    "sections":[
+        {
+            "image": "images/resort-hotels/dhh/1.jpg",
+            "testImage": "images/resort-hotels/dhh/dhh_1.jpg",
+            "testAspect": "10 / 9",
+            "translations": {
+                "en_US": {
+                    "title": "HOLLYWOOD STYLE FAMILY FUN",
+                    "article": "Surround yourself in the glitz and grandeur of classic Hollywood at this richly appointed hotel. Combining stunning Art-Deco architecture with a dash of Disney magic, this Hotel invites you to stay in a place where you’re the star.",
+                    "remark": "* Temporarily closed"
+                },
+                "zh-hk": {
+                    "title": "好萊塢式的家庭趣味",
+                    "article": "迪士尼好萊塢酒店讓賓客彷如置身時尚而華麗的經典好萊塢時代，而且設備齊全，可以滿足不同的需求。酒店的建築風格完美結合各種電影元素和迪士尼的魔法色彩，讓每一位入住的賓客都頓時化身為好萊塢巨星。",
+                    "remark": "* 暫停開放"
+                }
+            }
+        },
+        {
+            "images": [
+                {
+                    "src": "images/resort-hotels/dhh/2.jpg",
+                    "mobileSrc":"images/resort-hotels/dhh/2-mobile.jpg"
+                },
+                {
+                    "src": "images/resort-hotels/dhh/3.jpg",
+                    "mobileSrc":"images/resort-hotels/dhh/3-mobile.jpg"
+                }
+            ]
+        }
+    ]
+}

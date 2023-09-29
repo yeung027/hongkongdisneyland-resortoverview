@@ -1,0 +1,270 @@
+{
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "Experience",
+                "second_title": "OUR LATEST MAGIC"
+            },
+            "zh-hk": {
+                "title": "度假區奇妙新體驗"
+            }
+        },
+        "interval":7000,
+        "medias":[
+            {
+                "src":"images/landing/kv/1.jpg",
+                "mobileSrc":"images/landing/kv/1-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/landing/kv/2.jpg",
+                "mobileSrc":"images/landing/kv/2-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/landing/kv/3.jpg",
+                "mobileSrc":"images/landing/kv/3-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/landing/kv/4.jpg",
+                "mobileSrc":"images/landing/kv/4-mobile.jpg",
+                "type": "image"
+            }
+            
+        ]
+    },
+    "sections":[
+        {
+            "slideshow":{
+                "interval":7000,
+                "medias":[
+                    {
+                        "src":"images/landing/section1/1.jpg",
+                        "type": "image",
+                        "translations": {
+                            "en_US": {
+                                "title": "Introducing an",
+                                "second_title": "ALL-NEW DUFFY FANS-TASY AT HONG KONG DISNEYLAND",
+                                "article": "“Duffy Fans-tasy” has come to the Resort with the arrival of LinaBell! Duffy’s curious, playful, and fanciful new friend—with her bushy tail, bright blue eyes, long pointy ears tied with an orchid, and a signature magnifying glass—can’t wait to share enchanting stories and new collectibles with you."
+                            },
+                            "zh-hk": {
+                                "title": "全新Duffy Fans-tasy加「萌」香港迪士尼",
+                                "article": "可愛的小狐狸LinaBell巳經加「萌」香港迪士尼樂園度假區！這隻充滿好奇心、聰明又俏皮的小狐狸，長長尖尖的耳朵繫著一朵別緻的蘭花，蓬鬆柔軟的毛毛尾巴總是一搖一擺，最愛用圓嘟嘟的小手拿著放大鏡，轉動藍藍的眼珠探索身邊大小事。快來與LinaBell一起開始屬於你們的故事，投入全新Duffy Fans-tasy！"
+                            }
+                        }
+                    },
+                    {
+                        "src":"images/landing/section1/2.jpg",
+                        "type": "image",
+                        "translations": {
+                            "en_US": {
+                                "title": "MEMENTOS AND MOMENTS",
+                                "second_title": "TO SATISFY YOUR FANS-TASY",
+                                "article": "Gear up with your Disney besties in the new Duffy and Friends-themed outfits to welcome LinaBell’s arrival at the park in style. A variety of LinaBell-themed products is available, some of them exclusive at Hong Kong Disneyland!  You’re sure to find something LinaBell-themed that you’ll love."
+                            },
+                            "zh-hk": {
+                                "title": "遊歷萌粉世界",
+                                "second_title": "選購周邊萌物",
+                                "article": "Duffy 粉絲全「萌」召集，讓奇妙世界變成萌粉世界。樂園更推出一系列LinaBell主題的周邊「萌」物，當中部分為香港迪士尼限定，款款萌意十足，讓人一看見就忍不住想抱，萌粉絕對必買！"
+                            }
+                        }
+                    },
+                    {
+                        "src":"images/landing/section1/3.jpg",
+                        "type": "image",
+                        "translations": {
+                            "en_US": {
+                                "title": "Get a",
+                                "second_title": "FANS-TASY TASTE OF OUR NEW FOX FRIEND",
+                                "article": "Fill up on fans-tasy energy with a series of themed delicacies, available at both park and hotel restaurants. There’re numerous LinaBell delights that are so cute you'll have to give social media a bite of the action—with a selfie—before you grab a taste."
+                            },
+                            "zh-hk": {
+                                "title": "主題美食",
+                                "second_title": "萌甜滋味",
+                                "article": "樂園與酒店餐廳也特別為萌粉預備一系列主題美食，為大家注入滿滿的Duffy Fans-tasy能量。萌萌的美食造型令人忙於打卡留念，捨不得吃；同場還有多款甜品，款款都以Duffy與好友外型及專屬配色作設計。"
+                            }
+                        }
+                    },
+                    {
+                        "src":"images/landing/section1/4.jpg",
+                        "type": "image",
+                        "translations": {
+                            "en_US": {
+                                "title": "CASTLE OF MAGICAL DREAMS",
+                                "article": [
+                                    {"text":"Standing as a shining beacon of courage, hope and possibility, the "},
+                                    {"text":"Castle of Magical Dreams"},
+                                    {"text":" stands proudly as the new centerpiece of "},
+                                    {"text":"Hong Kong Disneyland", "nowrap": true},
+                                    {"text":". It is built on 13 classic Disney tales of Princesses and Queens and inspires everyone to dream big."}
+                                ]
+                            },
+                            "zh-hk": {
+                                "title": "奇妙夢想城堡",
+                                "article": [
+                                    {"text":"象徵勇氣、希望和無盡可能的奇妙"},
+                                    {"text":"夢想城堡"},
+                                    {"text":"，是"},
+                                    {"text":"香港迪士尼樂園", "nowrap": true},
+                                    {"text":"的全新地標。城堡設計靈感來自13個有關經典迪士尼公主和女王的故事，標誌每顆永不放棄追求夢想的決心。"}
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "src":"images/landing/section1/5.jpg",
+                        "type": "image",
+                        "translations": {
+                            "en_US": {
+                                "title": "The most",
+                                "second_title": "COLORFUL AND SHIMMERING CASTLE OF ALL TIME",
+                                "article": "Guests can identify each Princess and Queen through the representation of their iconic symbols, colors and patterns on the towers, turrets, domes, finials and spires, which are distinctly associated with their stories, origins or adventures."
+                            },
+                            "zh-hk": {
+                                "title": "色彩最豐富",
+                                "second_title": "最閃亮的城堡",
+                                "article": "在奇妙夢想城堡的每個城塔、塔樓、圓塔及尖塔等建築元素上，賓客可細賞每個連繫各故事人物或場景的顔色、標誌圖案、紋理和裝飾，將公主和女王們的夢想故事和個性活現眼前。"
+                            }
+                        }
+                    },
+                    {
+                        "src":"images/landing/section1/6.jpg",
+                        "type": "image",
+                        "translations": {
+                            "en_US": {
+                                "title": "THE MAGNIFICENT ROSE WINDOW",
+                                "article": "At the west entrance of the castle, the rose window above the rotunda, like the castle itself, brings 13 stories of Disney Princesses and Queens all together and forms a vibrant masterpiece, showing the symbols and flowers that represent the different classic princesses and queens’ stories."
+                            },
+                            "zh-hk": {
+                                "title": [
+                                    {"text" : "圓花窗匯聚公主和"},
+                                    {"text" : "女王的標誌", "nowrap":true}
+                                ],
+                                "article": "位於城堡西面入口上方正中央的圓花窗是賓客們不可錯過的打卡位。圓花窗匯聚了13個經典迪士尼公主和女王故事的標誌和花朵圖案，完美結合成一幅畫，正如奇妙夢想城堡一樣，將她們的故事融合於一體。"
+                            }
+                        }
+                    }
+                    
+                ]
+            }
+        },
+        {
+            "modalSlideshow":{
+                "interval":7000,
+                "medias":[
+                    {
+                        "srcTC":"videos/s_Momentous_tc.mp4",
+                        "srcEN":"videos/s_20220711_Sizzle_Momentous_60s_EN_H264.mp4",
+                        "poster":"images/landing/section2/1.jpg",
+                        "type": "video",
+                        "navPreview":"images/landing/section2/1.jpg"
+                    },
+                    {
+                        "src":"images/landing/section2/2.jpg",
+                        "type": "image",
+                        "navPreview":"images/landing/section2/2.jpg"
+                    },
+                    {
+                        "src":"images/landing/section2/3.jpg",
+                        "type": "image",
+                        "navPreview":"images/landing/section2/3.jpg"
+                    }
+                ],
+                "translations": {
+                    "en_US": {
+                        "title": "THE MOST MAGICAL SHOW",
+                        "second_title": "ON EARTH",
+                        "modal_title": "Momentous",
+                        "modal_title2": "THE MOST MAGICAL SHOW ON EARTH"
+                    },
+                    "zh-hk": {
+                        "title": "奇妙之最，閃亮夜空",
+                        "modal_title": "迪士尼星夢光影之旅",
+                        "modal_title2": "奇妙之最，閃亮夜空"
+                    }
+                }
+            },
+            "translations": {
+                "en_US": {
+                    "title": "THE MOST MAGICAL SHOW ON EARTH",
+                    "articles": [
+                        {"text":"The all-new nighttime spectacular, "},
+                        {"text":"“Momentous”", "color":"#A46910","bold":true},
+                        {"text":", illuminates the night sky with about 20 minutes of music and memorable moments. It reminds us how precious time is, and to cherish every moment with our loved ones."}
+                    ],
+                    "terms" : "* Terms and Conditions apply. The show is available on selected days. For details and show frequency, please refer to Hong Kong Disneyland website."
+                },
+                "zh-hk": {
+                    "title": [
+                        {"text" : "奇妙之最，"},
+                        {"text" : "閃亮夜空", "nowrap":true}
+                    ],
+                    "articles": [
+                        {"text":"全新多媒體夜間城堡匯演 —"},
+                        {"text":"「迪士尼星夢光影之旅」", "color":"#A46910","bold":true},
+                        {"text":"點亮晚空。長約20分鐘的多媒體光影匯演， 以迪士尼經典故事與注入全新編排的經典樂章，帶領賓客細味觸動心靈的生命旅程。"}
+                    ],
+                    "terms" : "* 受條款及細則約束。夜間城堡匯演於指定日子上演，詳情及演出場次，請參閱樂園網站。"
+                }
+            }
+        },
+        {
+            "modalSlideshow":{
+                "interval":7000,
+                "medias":[
+                    {
+                        "srcTC":"videos/s_FollowYourDreams_tc.mp4",
+                        "srcEN":"videos/s_Follow your dreams eng_1.mp4",
+                        "poster":"images/landing/section3/1.jpg",
+                        "type": "video",
+                        "navPreview":"images/landing/section3/1.jpg"
+                    },
+                    {
+                        "src":"images/landing/section3/2.jpg",
+                        "type": "image",
+                        "navPreview":"images/landing/section3/2.jpg"
+                    },
+                    {
+                        "src":"images/landing/section3/3.jpg",
+                        "type": "image",
+                        "navPreview":"images/landing/section3/3.jpg"
+                    }
+                ],
+                "translations": {
+                    "en_US": {
+                        "title": "FOLLOW",
+                        "second_title": "YOUR DREAMS",
+                        "modal_title": "FOLLOW YOUR DREAMS"
+                    },
+                    "zh-hk": {
+                        "title": "「迪士尼尋夢奇緣」",
+                        "second_title": [
+                            {"text": "城堡匯演", "nowrap":true}
+                        ],
+                        "modal_title": "「迪士尼尋夢奇緣」",
+                        "modal_title2": "城堡匯演",
+                        "modal_title2_marginleft_desktop": "10"
+                    }
+                }
+            },
+            "translations": {
+                "en_US": {
+                    "title": "FOLLOW YOUR DREAMS",
+                    "articles": [
+                        {"text":"This 20-minute castle show features an original song of the same name and different classic Disney tunes with contemporary arrangements. Mickey Mouse and his friends will take to the stage, accompanied by singers and dancers, magnificent large-scale props and effects. It encourages everyone to embrace the power of dreams and transform their lives."}
+                    ]
+                },
+                "zh-hk": {
+                    "title": [
+                        {"text" : "「迪士尼尋夢奇緣」"},
+                        {"text" : "城堡匯演", "nowrap":true}
+                    ],
+                    "articles": [
+                        {"text":"隨著原創歌曲  “Follow Your Dreams” 及多首經過重新編曲的迪士尼經典樂章奏起，米奇老鼠和一群迪士尼朋友驚喜現身，伴隨歌手與舞者的傾情演繹、天馬行空的巨型裝置、震撼壯觀的特效，鼓勵我們跳出框框，勇於追尋夢想！"}
+                    ]
+                }
+            }
+        }
+    ]
+}

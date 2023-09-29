@@ -1,0 +1,619 @@
+
+{
+    "kv":{
+        "translations": {
+            "en_US": {
+                "title": "Highlights of",
+                "second_title": "THE PARK’S ATTRACTIONS"
+            },
+            "zh-hk": {
+                "title": "精選樂園遊樂設施"
+            }
+        },
+        "interval":7000,
+        "medias":[
+            {
+                "src":"images/park/kv/1.jpg",
+                "mobileSrc":"images/park/kv/1-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/park/kv/2.jpg",
+                "mobileSrc":"images/park/kv/2-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/park/kv/3.jpg",
+                "mobileSrc":"images/park/kv/3-mobile.jpg",
+                "type": "image"
+            },
+            {
+                "src":"images/park/kv/4.jpg",
+                "mobileSrc":"images/park/kv/4-mobile.jpg",
+                "type": "image"
+            }
+            
+        ]
+    },
+    "sections":[
+        {
+            "translations": {
+                "en_US": {
+                    "article": "Hong Kong Disneyland has always been a place where countless dreams have come true. Explore the seven themed lands, filled with unique attractions and entertainment inspired by your favorite Disney stories and characters!"
+                },
+                "zh-hk": {
+                    "article": "香港迪士尼樂園自開幕以來見證無數夢想成真。賓客可穿梭七大園區，盡情探索各種獨一無二的遊樂設施及娛樂項目，彷如置身於喜愛的迪士尼故事！"
+                }
+            },
+            "interval":5000,
+            "images":[
+                {"src":"images/park/section1/1.jpg"},
+                {"src":"images/park/section1/2.jpg"},
+                {"src":"images/park/section1/3.jpg"},
+                {"src":"images/park/section1/4.jpg"},
+                {"src":"images/park/section1/5.jpg"},
+                {"src":"images/park/section1/6.jpg"}
+            ]
+        },
+        {
+            "interval":5000,
+            "pins":[
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Toy Story Land",
+                            "content": "Toy Story Land is a fully immersive land where Guests feel like they have shrunk down to the size of their favorite Toy Story toys. Just like the popular Disney ∙ Pixar motion picture series, the attractions and entertainment events in Toy Story Land celebrate the fun of playtime and imagination.",
+                            "pinText":["Toy Story", " Land"]
+                        },
+                        "zh-hk": {
+                            "title": "反斗奇兵大本營",
+                            "content": [
+                                {"text":"反斗奇兵大本營是一個令人樂而忘返的園區。在這裡你會發現自己如縮小至玩具般大小，置身於不同的玩具中。如同受歡迎的迪士尼．彼思"},
+                                {"text":"¹", "super":true},
+                                {"text":"動畫系列「反斗奇兵"},
+                                {"text":"²", "super":true},
+                                {"text":"」一樣，這個園區的遊樂設施和娛樂節目帶給你無限快樂，引發無限的想像力！"}
+                            ],
+                            "pinText":["反斗奇兵","大本營"],
+                            "remark":[
+                                {"text":"台灣譯名為："},
+                                {"text":"¹", "super":true},
+                                {"text":"皮克斯；"},
+                                {"text":"²", "super":true},
+                                {"text":"「玩具總動員」"}
+                            ]
+                        }
+                    },
+                    "top":-70,
+                    "left":-29.1,
+                    "desktop_top":-61,
+                    "desktop_left":-29.1,
+                    "pinType":1,
+                    "titleColor":"#DD2902",
+                    "title2Color":"#FB4F29",
+                    "slideshow":{
+                        "medias":[
+                            {
+"src":"images/park/Park_images/TSL_-_RC_Racer.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "RC Racer",
+                                        "description": "A thrilling and gravity-defying race, speeding back and forth on a soaring U-shaped track."
+                                    },
+                                    "zh-hk": {
+                                        "title": "沖天遙控車",
+                                        "description": "坐上遙控車，在「U」形軌道上來回飛馳，享受一飛沖天的超刺激快感。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/TSL_-_Toy_Soldier_Parachute_Drop.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Toy Soldier Parachute Drop",
+                                        "description": "Drop from the sky with the Toy Soldiers in a parachute training drill that thrill!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "玩具兵團跳降傘",
+                                        "description": "加入玩具兵團的跳降傘演習，體驗從天而降的快感。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/TSL_-_Slinky_Dog_Spin.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Slinky Dog Spin",
+                                        "description": "Slinky Dog is ready for a run! Hop on as he chases his tail around and around."
+                                    },
+                                    "zh-hk": {
+                                        "title": "轉轉彈弓狗",
+                                        "description": "登上轉轉彈弓狗，和它一起追逐自己的尾巴，圍著巨型大碟瘋狂旋轉的樂趣。"
+                                    }
+                                }
+                            }
+                           
+                        ]
+                    }
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Grizzly Gulch",
+                            "content": "The timeless tale of man versus nature provides plenty of laughs and excitement in Grizzly Gulch, a colorful frontier mining town founded on August 8, 1888. Come discover gold in the hills of the High Sierra Mountains, where a soaring mountain in the distance resembles a bear head!",
+                            "pinText": [
+                                "Grizzly",
+                                " Gulch"
+                            ]
+                        },
+                        "zh-hk": {
+                            "title": "灰熊山谷",
+                            "content": "富有西部特色的採礦小鎮灰熊山谷在 1888 年 8  月 8  日建成，這個滿載歡笑和驚險的小鎮，一直流傳著一個關於人類與自然對抗的不朽傳說。現在就來小鎮旁那座遠看像一隻灰熊頭的灰熊山上發掘金礦吧！",
+                            "pinText":"灰熊山谷"
+                        }
+                    },
+                    "top":-29.4,
+                    "left":-74,
+                    "desktop_top":-20.4,
+                    "desktop_left":-70,
+                    "pinType":2,
+                    "titleColor":"#9F4D00",
+                    "title2Color":"#BE630F",
+                    "slideshow":{
+                        "medias":[
+                            {
+"src":"images/park/Park_images/GG_-_Runaway_Mine_Cars.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Big Grizzly Mountain Runaway Mine Cars",
+                                        "description": "The wildest ride in the West! Grizzly bears send the mine cars racing out of the mountain, backward and forward through the entire town."
+                                    },
+                                    "zh-hk": {
+                                        "title": "灰熊山極速礦車",
+                                        "description": "踏上西部最瘋狂的極速礦車！搗蛋的灰熊令礦車飛越灰熊山谷，在軌道縱橫交錯的礦洞內穿梭飛馳。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/GG_-_Geyser_Gulch.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Geyser Gulch",
+                                        "description": "Mistakenly built on geysers, the old town of Grizzly Gulch—dubbed Geyser Gulch—is home to all sorts of water-logged fun!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "噴泉山谷",
+                                        "description": "小鎮意外地建於噴泉區上，故此灰熊山谷的古城又名噴泉山谷，是著名的嬉水樂土！"
+                                    }
+                                }
+                            }
+                            
+                        ]
+                    }
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Adventureland",
+                            "content": "Adventureland is an amalgam of exotic regions from Africa to Asia to the South Seas, and a place where every step of the journey is into the unknown, the unfamiliar, the mystical and the magical.",
+                            "pinText":"Adventureland"
+                        },
+                        "zh-hk": {
+                            "title": "探險世界",
+                            "content": "探險世界是由非洲、亞洲和南太平洋島嶼中某些詭秘而富異國風情的地域組合而成；在這裏，旅程的每一步都充滿未知、陌生、神秘和奇幻。",
+                            "pinText":"探險世界"
+                        }
+                    },
+                    "top":-22.5,
+                    "left":-26,
+                    "desktop_top":-15.5,
+                    "desktop_left":-26,
+                    "pinType":3,
+                    "titleColor":"#318100",
+                    "title2Color":"#5A9E02",
+                    "slideshow":{
+                        "width":532,
+                        "medias":[
+                            {
+"src":"images/park/Park_images/AL_-_Festival_of_the_Lion_King.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Festival of the Lion King",
+                                        "description": "Witness a colorful pageant of music and dance and a celebration of Disney’s animated classic – “The Lion King”, presented in Theater in the Wild."
+                                    },
+                                    "zh-hk": {
+                                        "title": "獅子王慶典",
+                                        "description": "於原野劇場上演的音樂劇以熱賣動畫《獅子王》為主題，表演伴隨歌舞，穿插各種舞台特效和火舞表演，令整個表演散發著耀目的光彩，魅力瞬間被點燃。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/AL_-_Jungle_River_Cruise.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Jungle River Cruise",
+                                        "description": "Set sail for high adventure during a guided tour of the mysterious and untamed Rivers of Adventure."
+                                    },
+                                    "zh-hk": {
+                                        "title": "森林河流之旅",
+                                        "description": "登上探險船，在勇敢的船長帶領下，在隱蔽的熱帶河流上展開刺激的探險之旅。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/AL_-_Moana_A_Homecoming_Celebration.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Moana: A Homecoming Celebration",
+                                        "description": "Sail away with Moana in the Moana: A Homecoming Celebration atmosphere stage show, set in an open-air venue in Adventureland."
+                                    },
+                                    "zh-hk": {
+                                        "title": "魔海奇緣凱旋慶典",
+                                        "description": [
+                                            {"text":"於探險世界戶外劇場的互動舞台演出，以熱賣動畫《魔海奇緣"},
+                                            {"text":"1","super":true},
+                                            {"text":"》為主題，無論任何年齡的大小朋友，都能夠投入慕安娜"},
+                                            {"text":"2","super":true},
+                                            {"text":"的歷險之旅。"}
+                                        ],
+                                        "remark":[
+                                            {"text":"台灣譯名為："},
+                                            {"text":"1","super":true},
+                                            {"text":"《海洋奇緣》； "},
+                                            {"text":"2","super":true},
+                                            {"text":"慕娜 "}
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Main Street, U.S.A.",
+                            "content": "The first of seven themed lands that make up Hong Kong Disneyland, Main Street, U.S.A. recreates the unique charm found in small American towns a century ago.",
+                            "pinText":["Main Street,", " U.S.A."]
+                        },
+                        "zh-hk": {
+                            "title": "美國小鎮大街",
+                            "content": "美國小鎮大街重現20世紀初美國小鎮的獨特魅力，是香港迪士尼樂園的七個主題園區中最先呈現於賓客眼前的一個園區。",
+                            "pinText":["美國", "小鎮大街"]
+                        }
+                    },
+                    "top":4,
+                    "left":15.3,
+                    "desktop_top":10,
+                    "desktop_left":12,
+                    "pinType":4,
+                    "titleColor":"#9A1C00",
+                    "title2Color":"#C94F35",
+                    "slideshow":{
+                        "medias":[
+                            {
+"src":"images/park/Park_images/MS_-_Animation_Academy.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Animation Academy",
+                                        "description": "Learn to draw your favorite Disney characters,  with simple step-by-step instructions given by a Disney artist (currently available in Cantonese only)"
+                                    },
+                                    "zh-hk": {
+                                        "title": "動畫藝術教室",
+                                        "description": "到動畫藝術教室一步一步跟從專業的迪士尼動畫師指示，學習在畫板上描繪你最愛的迪士尼朋友吧！ (目前只提供廣東話)。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/MS_-_My_Journeys_with_Duffy.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Main Street Cinema: My Journeys with Duffy - presented by FUJIFILM",
+                                        "description": "This store boasts the most comprehensive collection of Duffy and Friends merchandise to date, as well as the debut collection of their new friend, LinaBell!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "小鎮影院 :「我與DUFFY遊歷之旅」- 由FUJIFILM呈獻",
+                                        "description": "商店匯集歷來最齊全的Duffy與好友精品，而Duffy的最新好友LinaBell精品亦已在本店正式登場。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/MS_-_Meet_Disney_and_Friends.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Meet Disney and Friends on Main Street, U.S.A.",
+                                        "description": "Create special memories and take a selfie with your beloved Disney Friends, including Mickey Mouse, Minnie Mouse, Donald Duck, Goofy, and more!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "與迪士尼朋友在美國小鎮大街見面",
+                                        "description": "與你最愛的迪士尼朋友米奇老鼠、米妮老鼠、唐老鴨 、高飛等歡笑會面和自拍，締造更多奇妙回憶！"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/MS_-_Corner_Cafe.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": [
+                                            {"text":"Main Street Corner Cafe Hosted by Coca-Cola"},
+                                            {"text":"®", "super":true}
+                                        ],
+                                        "description": "Dine indoors or in the charming enclosed patio for your beloved dishes featuring favorite Middle-American comfort foods."
+                                    },
+                                    "zh-hk": {
+                                        "title": [
+                                            {"text":"大街餐廳由Coca-Cola"},
+                                            {"text":"®", "super":true},
+                                            {"text":"呈獻"}
+                                        ],
+                                        "description": "賓客可在這裡選擇在室內或別緻的庭院中用餐，品嚐充滿美國中部風味的佳餚。"
+                                    }
+                                }
+                            }
+                            
+                        ]
+                    }
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Fantasyland",
+                            "content": "Fantasyland is a celebration of the wonder and magic of Disney stories and characters, fashioned after a quaint European village within the walls of a storybook castle in the midst of a lively medieval fair and festival.",
+                            "pinText":"Fantasyland"
+                        },
+                        "zh-hk": {
+                            "title": "幻想世界",
+                            "content": "幻想世界以仿照歐洲古雅的鄉村而設計，猶如座落於童話中城堡的圍牆裏。村子充滿中世紀節日市集的歡騰氣氛，並致敬經典迪士尼朋友及故事。",
+                            "pinText":"幻想世界"
+                        }
+                    },
+                    "top":-57,
+                    "left":20,
+                    "desktop_top":-47,
+                    "desktop_left":26,
+                    "pinType":5,
+                    "titleColor":"#BD1999",
+                    "title2Color":"#C558AD",
+                    "slideshow":{
+                        "medias":[
+                            {
+"src":"images/park/Park_images/FL_-_Mickey_and_the_Wondrous_Books.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Mickey and the Wondrous Books",
+                                        "description": "Dive into seven widely loved Disney tales, and encounter some of your favorite characters in an exhilarating, musical revue stage production like no other!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "迪士尼魔法書房",
+                                        "description": "通過華麗的音樂劇表演與嶄新的舞台技術，穿梭於七個極受歡迎的迪士尼經典故事間，與不同迪士尼朋友會面，感受前所未有的奇妙旅程。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/FL_-_The_Many_Adventures_of_Winnie_the_Pooh.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "The Many Adventures of Winnie the Pooh",
+                                        "description": "Glide and bounce through some of the most beloved scenes and settings of Winnie the Pooh. Hop into a giant Hunny Pot as you journey to the enchanted world of Hundred Acre."
+                                    },
+                                    "zh-hk": {
+                                        "title": "小熊維尼歷險之旅",
+                                        "description": "登上巨型蜜糖罌在百畝林裡四處探險，穿梭多個最受歡迎的小熊維尼名勝和場景之中，盡情投入小熊維尼的故事世界。"
+                                    }
+                                }
+                            },
+                            {
+                                "src":"images/park/Park_images/FL_-_The_Royal_Reception_Hall.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "The Royal Reception Hall",
+                                        "description": "Meet your favorite Princesses and Queens face to face in a regally appointed castle interior."
+                                    },
+                                    "zh-hk": {
+                                        "title": "皇室禮賓庭",
+                                        "description": "於高貴優雅的環境下，與你心愛的迪士尼公主和女王見面。"
+                                    }
+                                }
+                            },
+                            {
+
+"src":"images/park/Park_images/FL_-_Royal_Banquet_Hall.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Royal Banquet Hall",
+                                        "description": "Eat like a prince or princess inside a medieval dining hall serving American, Japanese and Chinese specialties."
+                                    },
+                                    "zh-hk": {
+                                        "title": "皇室宴會廳",
+                                        "description": "皇室宴會廳令你猶如成為了皇室成員一樣，在氣派的中世紀宴會廳中享用美式、日式和中式美食。"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Tomorrowland",
+                            "content": "Tomorrowland presents an optimistic look at the world of tomorrow, an intergalactic spaceport, where Guests will set off on exciting space adventures, meet favorite space heroes and encounter untold wonders in the far reaches of the universe.",
+                            "pinText":"Tomorrowland"
+                        },
+                        "zh-hk": {
+                            "title": "明日世界",
+                            "content": "明日世界展示了一個樂觀的未來世界。賓客可在這個星際太空港出發展開刺激的太空歷險旅程，與你最喜愛的太空英雄見面及經歷前所未有的宇宙奇遇。",
+                            "pinText":"明日世界",
+                            "remark":[
+                                {"text":"台灣譯名為："},
+                                {"text":"¹", "super":true},
+                                {"text":"漫威；"},
+                                {"text":"²", "super":true},
+                                {"text":"鋼鐵人；"},
+                                {"text":"³", "super":true},
+                                {"text":"九頭蛇；"},
+                                {"text":"⁴", "super":true},
+                                {"text":"蟻人；"},
+                                {"text":"⁵", "super":true},
+                                {"text":"阿尼姆左拉"}
+                            ]
+                        }
+                    },
+                    "top":-22,
+                    "left":52,
+                    "desktop_top":-17,
+                    "desktop_left":47,
+                    "pinType":6,
+                    "titleColor":"#0056A6",
+                    "title2Color":"#3280C8",
+                    "slideshow":{
+                        "medias":[
+                            {
+"src":"images/park/Park_images/TL_-_IMX.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Iron Man Experience - Presented by AIA",
+                                        "description": "Disney Park's first Marvel-themed ride with strong Hong Kong elements in a flight simulator experience, completed with 3-D projection, surround sound and other special effects. Immerse yourself in the Marvel story of a battle with the evil forces of Hydra!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "鐵甲奇俠飛行之旅 - 由友邦呈獻",
+                                        "description": [
+                                            {"text":"全球迪士尼樂園首個Marvel"},
+                                            {"text":"¹", "super":true},
+                                            {"text":"主題遊樂設施。 賓客將置身香港景致投入飛行體驗，透過飛行模擬器、3D影像、環迴立體聲及各種特效，親歷鐵甲奇俠"},
+                                            {"text":"²", "super":true},
+                                            {"text":"及其Hydra"},
+                                            {"text":"³", "super":true},
+                                            {"text":"的正邪對決！"}
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/TL_-_Nano_Battle.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Ant-Man and The Wasp: Nano Battle!",
+                                        "description": "Experience the excitement of shrinking down to the size of an ant, as you fight alongside Ant-Man and The Wasp to prevent classified S.H.I.E.L.D. data from falling into the hands of Hydra. Go all-in to become part of this epic battle!"
+                                    },
+                                    "zh-hk": {
+                                        "title": "蟻俠與黃蜂女：擊戰特攻！",
+                                        "description": [
+                                            {"text":"賓客將在史達科技展神盾局(S.H.I.E.L.D.)內，乘搭最新野戰車，與蟻俠"},
+                                            {"text":"⁴", "super":true},
+                                            {"text":"及黃蜂女並肩作戰，共同抵禦邪惡勢力Arnim Zola"},
+                                            {"text":"⁵", "super":true},
+                                            {"text":"與Hydra"},
+                                            {"text":"³", "super":true},
+                                            {"text":"機械蟲軍團。"}
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/TL_-_Starliner_Diner.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Starliner Diner",
+                                        "description": "A quick-service restaurant with indoor air-conditioned seating and an outdoor patio, this futuristic spaceport serving American-style fried chicken basket and hamburger caters to families of interstellar travelers looking to relax and refuel, before continuing their spin around the galaxy."
+                                    },
+                                    "zh-hk": {
+                                        "title": "火箭餐廳",
+                                        "description": "一眾星空歷險者可選擇在室內享受空調或到露天庭院稍作休息，享用地球人最愛的美式炸雞籃及漢堡包等美食，補充體力後再繼續在銀河裡穿梭探險。"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "translations": {
+                        "en_US": {
+                            "title": "Mystic Point",
+                            "content": "Mystic Point is the home of Lord Henry Mystic — eccentric adventurer, explorer and collector of art—and his faithful monkey friend, Albert. Mystic Manor was built as a museum for the growing collection of art and artifacts gathered by him.",
+                            "pinText":["Mystic", " Point"]
+                        },
+                        "zh-hk": {
+                            "title": "迷離莊園",
+                            "content": "迷離莊園是性情孤僻的旅行家及冒險家亨利爵士和他的小猴子阿拔的家。他在這裡興建了一座維多利亞式大宅兼私人博物館以收藏各種他心愛的工藝及奇異珍品。",
+                            "pinText":["迷離", "莊園"]
+                        }
+                    },
+                    "top":-51,
+                    "left":-56,
+                    "desktop_top":-51,
+                    "desktop_left":-56,
+                    "pinType":7,
+                    "titleColor":"#4B0383",
+                    "title2Color":"#6240C2",
+                    "slideshow":{
+                        "medias":[
+                            {
+"src":"images/park/Park_images/MP_-_Mystic_Manor.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Mystic Manor",
+                                        "description": "Board Lord Henry's Mystic Mangeto-Electric Carriage to view his amazing collection of art and antiquities from around the world."
+                                    },
+                                    "zh-hk": {
+                                        "title": "迷離大宅",
+                                        "description": "登上亨利爵士設計的迷離莊園電磁廂車，欣賞他蒐集來自世界各地的奇珍異寶。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/MP_-_Garden_of_Wonders.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Garden of Wonders",
+                                        "description": "Stroll through a stately garden filled with curious archaeological antiquities that create wondrous 3D illusions."
+                                    },
+                                    "zh-hk": {
+                                        "title": "奇幻庭園",
+                                        "description": "漫步「奇幻庭園」，觀賞古代雕塑群營造出的神奇3D幻景。"
+                                    }
+                                }
+                            },
+                            {
+"src":"images/park/Park_images/MP_-_Explorers_Club_Restaurant.jpg",
+                                "type": "image",
+                                "translations": {
+                                    "en_US": {
+                                        "title": "Explorer’s Club Restaurant",
+                                        "description": "Embark on a tasty adventure as you dine on exotic international cuisine in 5 dining rooms themed to exotic locales."
+                                    },
+                                    "zh-hk": {
+                                        "title": "大冒險家餐廳",
+                                        "description": "置身五大異國特色主題用餐區，盡享環球風味佳餚，展開一段美食大冒險。"
+                                    }
+                                }
+                            }
+                            
+                            
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
